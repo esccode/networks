@@ -1,6 +1,8 @@
 # networks
-
+#### windows
 tracert www.google.co.in
+#### linux
+traceroute wp.pl
 
 ping google.com
 

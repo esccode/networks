@@ -2,7 +2,9 @@
 #### windows
 tracert www.google.co.in
 #### linux
-traceroute wp.pl
+traceroute -p 8080 -T -m 50 wp.pl
+nmap -p 8080 wp.pl
+nslookup wp.pl
 
 ping google.com
 

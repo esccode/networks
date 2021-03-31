@@ -35,3 +35,5 @@ taskKill
 nslookup
 
 Nbtstat -S
+ip a
+ip route
